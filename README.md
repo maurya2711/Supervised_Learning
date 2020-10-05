@@ -2,9 +2,9 @@
 
 ## Setup
 Install the below packages
-  *sklearn
-  *matplotlib
-  *pandas
+  * sklearn
+  * matplotlib
+  * pandas
 IDE used: Jupyter Notebook
 
 ## Project Description
